@@ -29,7 +29,7 @@ const features = [
     title: 'Marketing',
     description:
       "Increase revenues, generate leads, and improve sales workflows with innovative marketing tools.",
-    image: screenshotrocks,
+    image: screenshotRocks,
   },
   {
     title: 'Omni-Channel',
