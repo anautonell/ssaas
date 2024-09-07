@@ -14,27 +14,27 @@ import screenshotVatReturns from '@/images/screenshots/vat-returns.png'
 
 const features = [
   {
-    title: 'Payroll',
+    title: 'Support',
     description:
-      "Keep track of everyone's salaries and whether or not they've been paid. Direct deposit not supported.",
+      "Get the tools you need to provide excellent customer support and a stellar live chat experience.",
     image: screenshotPayroll,
   },
   {
-    title: 'Claim expenses',
+    title: 'Smart Bots',
     description:
-      "All of your receipts organized into one place, as long as you don't mind typing in the data by hand.",
+      "Build and launch conversational chatbots. No coding required. Easily automate customer service.",
     image: screenshotExpenses,
   },
   {
-    title: 'VAT handling',
+    title: 'Marketing',
     description:
-      "We only sell our software to companies who don't deal with VAT at all, so technically we do all the VAT stuff they need.",
+      "Increase revenues, generate leads, and improve sales workflows with innovative marketing tools.",
     image: screenshotVatReturns,
   },
   {
-    title: 'Reporting',
+    title: 'Omni-Channel',
     description:
-      'Easily export your data into an Excel spreadsheet where you can do whatever the hell you want with it.',
+      'Send and reply to WhatsApp messages, Facebook messages, Telegram messages, text messages, and more.',
     image: screenshotReporting,
   },
 ]
