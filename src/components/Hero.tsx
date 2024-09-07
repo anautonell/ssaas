@@ -28,13 +28,12 @@ export function Hero() {
         for small businesses.
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-        Most bookkeeping software is accurate, but hard to use. We make the
-        opposite trade-off, and hope you don’t get audited.
+        Automate customer communication with AI-driven bots, saving time and boosting revenue.
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
         <Button href="/register">Try it for free</Button>
         <Button
-          href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          href="https://toniautla.bubbleapps.io/version-test?debug_mode=true"
           variant="outline"
         >
           <svg
