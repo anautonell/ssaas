@@ -10,7 +10,7 @@ import backgroundImage from '@/images/background-features.jpg'
 import screenshotExpenses from '@/images/screenshots/expenses.png'
 import screenshotPayroll from '@/images/screenshots/payroll.png'
 import screenshotReporting from '@/images/screenshots/reporting.png'
-import screenshotVatReturns from '@/images/screenshots/vat-returns.png'
+import screenshotVatReturns from '@/images/screenshots/rocks.png'
 
 const features = [
   {
@@ -29,7 +29,7 @@ const features = [
     title: 'Marketing',
     description:
       "Increase revenues, generate leads, and improve sales workflows with innovative marketing tools.",
-    image: screenshotRocks,
+    image: screenshotVatReturns,
   },
   {
     title: 'Omni-Channel',
